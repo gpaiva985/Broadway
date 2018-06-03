@@ -1,0 +1,46 @@
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+#home {
+  background-color: dimgray;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.list {
+  font-size: 18px;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.copyright {
+  font-size: 11px;
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+}
+.design {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-color: dimgray;
+}
