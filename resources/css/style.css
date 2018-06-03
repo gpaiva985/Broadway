@@ -4,8 +4,9 @@ html {
 }
 
 #home {
-  background-color: dimgray;
+  background-image: url('../images/the-flatiron-building.png');
 }
+
 h1 {
   font-size: 70px;
   font-weight: bold;
@@ -42,5 +43,5 @@ p {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-color: dimgray;
+  background-image: url('../images/the-flatiron-building.png');
 }
